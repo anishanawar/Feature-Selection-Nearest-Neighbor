@@ -300,11 +300,11 @@ int main(int argc, char* argv[])
     
     int input;
     // Print welcome message and algorithm selection options
-    cout << "Welcome to Kevin's Feature Selection Algorithm" << endl;
+    cout << "Welcome to Anisha's Feature Selection Algorithm" << endl;
     cout << "Type the number of the selection algorithm you want" << endl;
     cout << "\t 1) Forward Selection" << endl;
     cout << "\t 2) Backward Elimination" << endl;
-    cout << "\t 3) Kevin's Special Algorithm" << endl;
+    cout << "\t 3) Anisha's Special Algorithm" << endl;
     
     // Read the user's choice from standard input
     cin >> input;
@@ -321,7 +321,7 @@ int main(int argc, char* argv[])
     else
     {
         // If an unsupported option is chosen, print a default message.
-        cout << "Kevins" << endl;
+        cout << "Anishas" << endl;
     }
     
     return 0;  // End program execution successfully.

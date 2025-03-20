@@ -1,4 +1,3 @@
-# Feature-Selection-Nearest-Neighbor
 # Feature Selection with Nearest Neighbor
 
 This project implements a simple feature selection algorithm using a nearest neighbor classifier. It provides two search strategies for selecting the best subset of features from a dataset with continuous attributes and two classes:
@@ -91,14 +90,3 @@ Type the number of the selection algorithm you want
      3) Anisha's Special Algorithm
 
 Enter your choice (1, 2, or 3) to start the corresponding feature selection process.
-
-## Documentation and References
-
-- All significant code sections are well commented in the source files.
-- Any external code or algorithm references used in this project are documented within the source files.
-
-## Contact
-
-If you have any questions or suggestions, please feel free to reach out.
-
-Enjoy using the feature selection algorithm and best of luck with your projects!
